@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+	"lib": ["es2021", "dom"],
+        "module": "commonjs",
+        "target": "es6",
+	"outDir": "dist"
+    },
+    "include": ["src/**/*"]
+}
